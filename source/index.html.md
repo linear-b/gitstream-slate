@@ -1,8 +1,6 @@
 ---
 title: gitStream Reference Documentation
 
-language_tabs: # must be one of https://git.io/vQNgJ
-  - yaml
 
 toc_footers:
   - <a href='http://gitStream.cm'>Sign up at gitStream.cm</a>
