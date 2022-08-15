@@ -7,6 +7,7 @@ toc_footers:
 
 includes:
   - errors
+  - danlines
 
 search: true
 
